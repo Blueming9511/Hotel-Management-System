@@ -52,3 +52,5 @@ out/
 
 # Auto-generated files
 Generated\*
+
+.env
